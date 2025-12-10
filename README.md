@@ -70,6 +70,7 @@ MongoDB / MongoDB Atlas
 Database Name: Employees
 
 ## Project Structure
+```
 Employee-Management-System/
 │
 ├── server/
@@ -87,7 +88,7 @@ Employee-Management-System/
     │   ├── Home.jsx
     │   └── App.js
     └── package.json
-
+```
 ## API Endpoints
 ➤ Add Employee
 
