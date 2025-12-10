@@ -1,10 +1,10 @@
-#Employee Management System (MERN Stack)
+# Employee Management System (MERN Stack)
 
 A full-stack Employee Management System built using the MERN (MongoDB, Express, React, Node.js) stack.
 This system helps XYZ Enterprises efficiently Add, Search, and Update employee information through a simple and intuitive interface.
 
-##Features
-###Add Employee
+## Features
+### Add Employee
 
 Allows the user to save employee details such as:
 
@@ -18,7 +18,7 @@ Department
 
 JoiningDate
 
-###Search Employee
+### Search Employee
 
 Search employee by EmployeeID
 
@@ -26,13 +26,13 @@ Displays details in a textarea
 
 Shows an error message if employee not found
 
-###Update Employee
+### Update Employee
 
 Update the Designation of an employee
 
 Input EmployeeID → fetch details → update form displayed dynamically
 
-###Homepage Navigation
+### Homepage Navigation
 
 React Router used to navigate between:
 
@@ -88,7 +88,7 @@ Employee-Management-System/
     │   └── App.js
     └── package.json
 
-##API Endpoints
+## API Endpoints
 ➤ Add Employee
 
 POST /api/employees/add
@@ -131,7 +131,7 @@ The frontend runs at:
 
 http://localhost:3000
 
-##Running the App
+## Running the App
 
 Backend → http://localhost:5000
 
